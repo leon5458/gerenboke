@@ -1,0 +1,51 @@
+ * {
+ 	margin: 0;
+ 	padding: 0
+ }
+ 
+ body {
+ 	font: 15px "Microsoft YaHei", Arial, Helvetica, sans-serif;
+ 	color: #555;
+ 	background-color: #f6f6f6;
+ 	line-height: 1.5;
+ }
+ 
+ 
+ 
+ 
+
+ ul {
+ 	list-style-type: none;
+ 	overflow: hidden;
+ 	background-color: pink;
+ }
+ 
+ li {
+ 	float: right;
+    margin-right: 100px;
+ 	
+ }
+ 
+ li a {
+ 	display: block;
+ 	color: white;
+ 	text-align: center;
+ 	padding: 14px 18px;
+ 	text-decoration: none;
+ }
+ 
+ li a:hover {
+ 	background-color: palegreen;
+ 	text-decoration: none;
+ 	color: #00A7EB;
+ }
+ 
+ .me_img{ 
+ 	 height:30px;
+ 	 width: 30px; 
+ 	 position: relative;
+ 	 margin-left: 80px;
+ 	 display: inline-block;
+ 	 vertical-align: middle;
+ 	 
+ }

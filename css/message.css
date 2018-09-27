@@ -1,0 +1,23 @@
+
+
+ #message_head{
+ 	background-image: url(../img/page_time.jpg);
+ 	background-size: cover;
+ 	height: 160px;
+ 	
+ }
+ 
+ #message_me_txt{
+ 	float: right;
+ 		margin-top: 15px;
+ }
+ 
+ #message_line{
+ 	position:relative;
+    margin-top: 40px; 
+ }
+ 
+ #message_form{
+ 	height: 150px;
+ 	width: 1080px;
+ }
